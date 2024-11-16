@@ -22,7 +22,7 @@ Here are a few examples of projects from former students. The requirements for y
 
 Here is my example for the final documentation for this project. 
 
-- [[Untitled 3]]
+- [Proximity Sensor](https://github.com/gormes-EPIC/ProximitySensor/tree/main)
 
 If you can't come up with an idea, I have some that you are welcome to use.
 
